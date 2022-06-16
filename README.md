@@ -4,7 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bjverde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjverde&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 <!--
 **bjverde/bjverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
   
-  
-  ## ⚡ Technologies
+ ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
 
@@ -36,6 +35,12 @@ These are some of the technologies and tools that I work with:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-100000?style=flat-square&logo=gitlab)
+
+
+## :white_check_mark: Profile Stats ##
+
+![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bjverde&theme=dracula)
